@@ -1,0 +1,9 @@
+# Secret Google Cloud Key (The Most Important Line)
+shopify-1-april-5b8762694787.json
+
+# Python temporary files (Keep the repo clean)
+__pycache__/
+*.pyc
+
+# Local environment settings
+.env
